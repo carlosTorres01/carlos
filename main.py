@@ -13,7 +13,7 @@ class MainPage(webapp2.RequestHandler):
     def get(self):
         """Return a friendly HTTP greeting."""
         self.response.headers['Content-Type'] = 'text/plain'
-        self.response.write('hello, world!')
+        self.response.write('jajaja  hice mipaginasin pagar nada , jajajajaj')
 # [END main_page]
 
 
